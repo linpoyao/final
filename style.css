@@ -7,7 +7,7 @@
     padding-bottom: 20px;
     border: 3px dashed #ccc;
     text-align: center;
-    background-color: rgb(25, 199, 98);
+    background-color: rgb(250, 199, 98);
     color: white;
 }
 
@@ -36,7 +36,7 @@
 
 #source_holder {
     width: 500px;
-    height: 500px;
+    height: 250px;
     background-size: 500px;
     clear: both;
     float: left;
@@ -50,9 +50,6 @@
     margin: 0 auto;
 }
 
-.footer {
-    text-align: center;
-}
 
 #helpText h1 {
     text-align: center;
@@ -70,7 +67,7 @@
     line-height: 30px;
     margin-right: 10px;
     background-color: #4D6C81;
-    color: white;
+    color: red;
     border-radius: 5px;
     float: left;
 }
@@ -79,11 +76,7 @@
     /*width: 170px;*/
 }
 
-.button#share img {
-    float: left;
-    margin-top: 4px;
-    margin-left: 5px;
-}
+
 
 #slider {
     clear: both;
